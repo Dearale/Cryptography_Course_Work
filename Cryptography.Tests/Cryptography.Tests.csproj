@@ -26,6 +26,7 @@
 
   <ItemGroup>
     <None Update="TestData\MagentaKat.txt" CopyToOutputDirectory="PreserveNewest" />
+    <None Update="TestData\DiffieHellmanKat.json" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>
