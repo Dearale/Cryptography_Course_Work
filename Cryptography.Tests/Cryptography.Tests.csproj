@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Cryptography.Core\Cryptography.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="TestData\MagentaKat.txt" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>
