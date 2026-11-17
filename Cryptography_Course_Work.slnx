@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Cryptography.Contracts/Cryptography.Contracts.csproj" />
   <Project Path="Cryptography.Core/Cryptography.Core.csproj" />
+  <Project Path="Cryptography.Server/Cryptography.Server.csproj" />
   <Project Path="Cryptography.Tests/Cryptography.Tests.csproj" />
 </Solution>

@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cryptography.Core\Cryptography.Core.csproj" />
+    <ProjectReference Include="..\Cryptography.Server\Cryptography.Server.csproj" />
   </ItemGroup>
 
   <ItemGroup>

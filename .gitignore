@@ -25,3 +25,5 @@ coverage*.xml
 # Windows
 Thumbs.db
 Desktop.ini
+
+**/App_Data/
